@@ -21,3 +21,6 @@ MSXは日本で最も人気があり、他の国でも比較的人気があり�
 ## 現在の状況
 
 2026年10月10日、『MSXかんたん辞書Ver.1.2・β版』として試験公開中
+
+<div class="a-➡MATERIAL.md"><a href="➡MATERIAL.md">詳細はこちら➡MATERIAL.md</a></div>
+
