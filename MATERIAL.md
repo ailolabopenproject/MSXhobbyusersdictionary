@@ -7,3 +7,8 @@ https://msxdict-olf247jn.manus.space
 
 ## "MSX2 FS-A1F 取扱説明書"
 https://archive.org/details/fs-a-1-f
+
+<div align="center">
+<img src="images/fsa1f.png" alt=MSX2 FS-A1Fの画像>
+</div>
+  
