@@ -7,7 +7,7 @@ https://msxdict-olf247jn.manus.space
 
 ## "回路図"
 <div align="center">
-<img src="images/MI_PU2.pdf" alt=MSX 回路図の画像>
+<img src="images/MI02_PU.pdf" alt=MI02回路図の画像>
 </div>
 
 ## "MSX2 FS-A1F 取扱説明書"
