@@ -1,0 +1,3 @@
+﻿part_a,part_b,relation,confidence,note,source_url,source_note
+p-adapter-ac-hb3,p-adapter-fs-aa51,互換,出典記載あり,メーカーが違うが、コネクター・ピン配列・出力仕様が同じとwikiに記載。実機での動作確認は未確認,https://www.msx.org/wiki/Sony_AC-HB3,wiki AC-HB3。調査一覧と一致
+p-hic-sony,p-hic-panasonic,互換(条件付き),報告あり,同じミツミ製ハイブリッドIC EMC-NX0039に対する、Sony・Panasonic各社の品番。回路図の作者は互換・流用の可否そのものには触れていない。実機の確認で、スロット音声のミックス抵抗R32・R33がSony向け220kΩ、Panasonic向け150kΩと異なることが分かっており、両社で音声出力レベルが異なると言われる(載せ替えると音声レベルに差が出る可能性)。載せ替えの動作確認の記載はなし,http://elec-junker-p2.blog.jp/archives/6089094.html,EMC-NX0039 REV02 解析資料(BABAX氏)とブログ本文の追記。HB-F7も搭載とされるが作者も未確認と注記
