@@ -5,7 +5,8 @@ https://msxdict-olf247jn.manus.space
 <img src="images/toppage.png" alt=toppageの画像>
 </div>
 
-## "MITSUMI製　互換性回路図"
+## 『MITSUMI EMC-NX0039 解析回路図』
+　　　　　　　"
 <div align="center">
 <img src="images/MSX_kairo.png" alt=MSX_kairoの画像>
 
