@@ -1,9 +1,10 @@
-<!doctype html>
-<html lang="ja">
+Python
+<!doctype py>
+<py lang="ja">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>MSX資料辞書</title>
+<title>MSXかんたん辞書ver1.3β</title>
 <style>
 :root{--bg:#0b1220;--panel:#121d30;--panel2:#17253b;--text:#edf4ff;--muted:#9fb1ca;--line:#2a3b55;--accent:#6ee7e0;--accent2:#8bb7ff;--danger:#ff8d9b}
 *{box-sizing:border-box}body{margin:0;background:linear-gradient(135deg,#09101c,#101b2d 60%,#101a28);color:var(--text);font:16px/1.55 system-ui,-apple-system,"Segoe UI",sans-serif}
@@ -20,7 +21,7 @@ footer{max-width:1180px;margin:auto;padding:0 18px 26px;color:var(--muted);font-
 </style>
 </head>
 <body>
-<header><div class="kicker">MSX · PERSONAL KNOWLEDGE BASE</div><h1>MSX資料辞書</h1><p>パーツ・規格・互換情報を、探して、記録して、育てる。</p></header>
+<header><div class="kicker">MSX · PERSONAL KNOWLEDGE BASE</div><h1>MSXかんたん辞書ver1.3β</h1><p>パーツ・規格・互換情報を、探して、記録して、育てる。</p></header>
 <main>
   <section class="toolbar">
     <div><input id="search" class="search" placeholder="名称・分類・型番・互換品・備考などで検索…" autocomplete="off"><div class="stats"><span>登録件数 <strong id="count">0</strong></span><span>表示件数 <strong id="shown">0</strong></span><span id="storageStatus">このブラウザに保存</span></div></div>
@@ -128,4 +129,4 @@ $("jsonFile").addEventListener("change",async e=>{const file=e.target.files[0];i
 load();render();
 </script>
 </body>
-</html>
+</py>
