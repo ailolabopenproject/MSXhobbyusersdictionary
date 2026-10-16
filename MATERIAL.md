@@ -5,7 +5,7 @@ https://msxdict-olf247jn.manus.space
 <img src="images/toppage.png" alt=toppageの画像>
 </div>
 
-## "互換性回路図"
+## "MITSUMI製　互換性回路図"
 <div align="center">
 <img src="images/MSX_kairo.png" alt=MSX_kairoの画像>
 
