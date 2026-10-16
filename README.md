@@ -24,3 +24,7 @@ MSXは日本で最も人気があり、他の国でも比較的人気があり�
 
 <div class="a-➡MATERIAL.md"><a href="➡MATERIAL.md">詳細はこちら➡MATERIAL.md</a></div>
 
+##互換性回路図の追加"
+
+詳細は➡MATERIAL.md
+
