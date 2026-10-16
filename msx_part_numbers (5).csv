@@ -1,0 +1,24 @@
+﻿part_id,maker,part_number,note,source_note
+p-kbd-unit-f1xd,Sony,1-464-875-11,古いスキャンのため原本で要再確認,Sony HB-F1XD サービスガイド(ユーザー提供PDF) p.12
+p-fdd-unit-f1xd,Sony,MFD-11W-51L,MP-F11W-50Lから一部部品(フロントパネル等)を削除した型,Sony HB-F1XD サービスガイド(ユーザー提供PDF) 追加-1
+p-adapter-ac-hb3,Sony,AC-HB3,,wiki AC-HB3
+p-adapter-fs-aa51,Panasonic,FS-AA51,,wiki AC-HB3 / 調査一覧
+p-cable-fs-vc3011a,Panasonic,FS-VC3011A,メーカー表記は説明書(松下電器)に基づく推定,"FS-A1F取扱説明書(https://archive.org/details/fs-a-1-f。公開OCRテキストは約33,000字で第3章冒頭までしか取得できず、仕様表のある第6章は未確認。ページ番号は目安)"
+p-gatearray-upd65013,NEC,uPD65013GF375,,wiki Panasonic_FS-A1F
+p-fdc-tc8566f,Toshiba,TC8566F,,wiki Panasonic_FS-A1F
+p-belt-dfwv75c0009,Panasonic,DFWV75C0009,,wiki Panasonic_FS-A1ST
+p-belt-dfwv75c0009,Panasonic,FW-U1P501J,製品コード(eBayで流通とwiki記載),wiki Panasonic_FS-A1ST / FS-A1WX / FS-A1WSX / FS-A1FX
+p-cable-fdd24-fs-a1st,Sumitomo,AWM 2896 80C VW-1,純正(100mm、1.25mmピッチ),wiki Panasonic_FS-A1ST
+p-cable-fdd24-fs-a1st,(代替品),AWM 20624 80C 60V VW-1,代替(100〜200mm、1.25mmピッチ),wiki Panasonic_FS-A1ST
+p-psu-yamaha-np55xxx,Yamaha,NP 55150,CX5MA(豪・NZ),wiki Yamaha_CX5M
+p-psu-yamaha-np55xxx,Yamaha,NP 55140,CX5ME(英),wiki Yamaha_CX5M
+p-psu-yamaha-np55xxx,Yamaha,NP 55170,CX5MF(仏),wiki Yamaha_CX5M
+p-psu-yamaha-np55xxx,Yamaha,NP 55180,CX5MG(独),wiki Yamaha_CX5M
+p-psu-yamaha-np55xxx,Yamaha,NP 55130,CX5MS(北欧),wiki Yamaha_CX5M
+p-sfg01,Yamaha,SFG-01,,wiki Yamaha_CX5M
+p-sfg05,Yamaha,SFG-05,,wiki Yamaha_CX5M
+p-reg-str9005,未確認,STR9005,メーカー名は出典に記載なし,フォーラム PSUスレッド
+p-hic-sony,Sony,1-464-877-11,,EMC-NX0039 REV02 解析資料
+p-hic-sony,Mitsumi,EMC-NX0039,製造元の型番,EMC-NX0039 REV02 解析資料
+p-hic-panasonic,Panasonic,DAMCNX0039XT,,EMC-NX0039 REV02 解析資料
+p-hic-panasonic,Mitsumi,EMC-NX0039,製造元の型番,EMC-NX0039 REV02 解析資料
