@@ -1,8 +1,9 @@
-<!doctype html>
-<html lang="ja">
+Python
+<!doctype py>
+<py lang="ja">
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>MSX機種・部品辞書</title>
+<title>MSXかんたん辞書ver.1.3β</title>
 <style>
 :root{--bg:#09111e;--panel:#111e30;--panel2:#172941;--line:#2b405b;--text:#edf4ff;--muted:#9fb2cc;--a:#72e6dc;--b:#8eb7ff;--warn:#ffd18a}
 *{box-sizing:border-box}body{margin:0;background:radial-gradient(ellipse at top right,#172d48 0,#09111e 52%);color:var(--text);font:15px/1.55 system-ui,-apple-system,"Segoe UI",sans-serif}
@@ -16,7 +17,7 @@ footer{max-width:1250px;margin:auto;padding:0 16px 24px;color:var(--muted);font-
 </style>
 </head>
 <body>
-<header><small>MSX · CONNECTED REFERENCE</small><h1>MSX機種・部品辞書</h1><p>機種・部品・部品番号・互換関係をつないで調べる、個人用データベース。</p></header>
+<header><small>MSX · CONNECTED REFERENCE</small><h1>MSXかんたん辞書ver.1.3β</h1><p>機種・部品・部品番号・互換関係をつないで調べる、個人用データベース。</p></header>
 <main>
 <section class="panel">
  <div class="top"><div><input id="search" class="search" placeholder="型番・部品番号・メーカー・部品名・出典などを検索…"><div class="stats">収録 <b id="count">0</b>件　／　表示 <b id="shown">0</b>件　<span id="kind"></span></div></div>
@@ -81,4 +82,6 @@ $("backup").onclick=()=>download("msx-dictionary-backup.json",JSON.stringify(dat
 $("restore").onchange=async e=>{const f=e.target.files[0];if(!f)return;try{const x=JSON.parse(await f.text());for(const k of Object.keys(TABLES))if(!Array.isArray(x[k]))throw Error("バックアップ内に必要な表がありません");if(confirm("全データをバックアップの内容で置き換えますか？")){data=x;save();clearForm();alert("復元しました")}}catch(err){alert("復元失敗：\\n"+err.message)}finally{e.target.value=""}};
 blank();try{const x=JSON.parse(localStorage.getItem(KEY)||"{}");for(const k of Object.keys(TABLES))if(Array.isArray(x[k]))data[k]=x[k]}catch{}render();clearForm();
 </script>
-</body></html>
+</body>
+</py>
+</div>
