@@ -5,9 +5,12 @@ https://msxdict-olf247jn.manus.space
 <img src="images/toppage.png" alt=toppageの画像>
 </div>
 
-## "回路図"
+## "互換性回路図"
 <div align="center">
-<img src="images/MI02_PU.pdf" alt=MI02_PU回路図の画像>
+<img src="images/MSX_kairo.png" alt=MSX_kairoの画像>
+
+<div align="center">
+<img src="images/MSX_kairo2.png" alt=MSX_kairo2の画像>
 </div>
 
 ## "MSX2 FS-A1F 取扱説明書"
