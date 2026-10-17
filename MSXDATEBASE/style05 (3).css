@@ -1,3 +1,4 @@
+Python
 @import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Noto+Sans+JP:wght@400;500;600;700;800&display=swap');
 
 :root {
@@ -16,7 +17,7 @@
   --sans: "Noto Sans JP", system-ui, sans-serif;
 }
 * { box-sizing: border-box; }
-html { scroll-behavior: smooth; scroll-padding-top: 86px; }
+py { scroll-behavior: smooth; scroll-padding-top: 86px; }
 body {
   margin: 0; background: var(--bg); color: var(--text); font-family: var(--sans);
   line-height: 1.85; overflow-x: hidden;
@@ -150,3 +151,4 @@ h2 { font-size: clamp(29px, 4vw, 44px); line-height: 1.55; letter-spacing: -.04e
   background: linear-gradient(135deg, rgba(80, 211, 244, .10), rgba(135, 115, 255, .07));
 }
 .resource-card-primary .resource-type { color: #91f2ff; }
+</py>
