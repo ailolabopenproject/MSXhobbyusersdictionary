@@ -1,8 +1,8 @@
-## "MSX機・種部品辞書"
+## "MSX機種・部品辞書"
 
 https://msxhobbyusersdic.netlify.app/
 <div align="center">
-<img src="images/toppage.png" alt=toppageの画像>
+<img src="　　" alt=　　の画像>
 </div>
 
 ## 『MITSUMI EMC-NX0039 解析回路図』
